@@ -2,7 +2,7 @@
 import time
 import pyautogui
 
-# Give some time before python runs this file
+# Give some time before python runs the rest of the code
 time.sleep(5)
 
 # Finding your mouse's current position on the screen
